@@ -1,4 +1,4 @@
-# Virginia Legislative District Maps
+# Virginia Legislative Districts
 
 This repo contains shapefiles for Virginia's most recent state House and Senate legislative districts. The folder contains separate maps for House and Senate districts, as well as 16 custom regional maps that group districts by one of eight regions: Capital, Chesapeake, Hampton Roads, Northern Virginia, Piedmont, South Side, Southwest, and Valley. Some regional maps overlap. Large districts --- particularly those representing rural, sparsely populated areas --- may extend into multiple regions.
 
